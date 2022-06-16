@@ -49,6 +49,7 @@ form{
 }
 .form-foot{
     color:hsl(249,10%,26%);
+    font-size: 10px;
 }
 input{
     height:40px;
@@ -85,5 +86,9 @@ input{
     body {
         background-image: url(./images/bg-intro-mobile.png);
     }
+    .form-foot{
+    color:hsl(249,10%,26%);
+    font-size: 10px;
+}
 }
 
